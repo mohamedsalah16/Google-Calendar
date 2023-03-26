@@ -1,0 +1,39 @@
+E:\google calendar1\google calendar1\bin\Debug\net6.0\appsettings.Development.json
+E:\google calendar1\google calendar1\bin\Debug\net6.0\appsettings.json
+E:\google calendar1\google calendar1\bin\Debug\net6.0\google calendar1.staticwebassets.runtime.json
+E:\google calendar1\google calendar1\bin\Debug\net6.0\google calendar1.exe
+E:\google calendar1\google calendar1\bin\Debug\net6.0\google calendar1.deps.json
+E:\google calendar1\google calendar1\bin\Debug\net6.0\google calendar1.runtimeconfig.json
+E:\google calendar1\google calendar1\bin\Debug\net6.0\google calendar1.dll
+E:\google calendar1\google calendar1\bin\Debug\net6.0\google calendar1.pdb
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.csproj.AssemblyReference.cache
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.GeneratedMSBuildEditorConfig.editorconfig
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.AssemblyInfoInputs.cache
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.AssemblyInfo.cs
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.csproj.CoreCompileInputs.cache
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.MvcApplicationPartsAssemblyInfo.cache
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.RazorAssemblyInfo.cache
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.RazorAssemblyInfo.cs
+E:\google calendar1\google calendar1\obj\Debug\net6.0\staticwebassets\msbuild.google calendar1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\google calendar1\google calendar1\obj\Debug\net6.0\staticwebassets\msbuild.build.google calendar1.props
+E:\google calendar1\google calendar1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.google calendar1.props
+E:\google calendar1\google calendar1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.google calendar1.props
+E:\google calendar1\google calendar1\obj\Debug\net6.0\staticwebassets.pack.json
+E:\google calendar1\google calendar1\obj\Debug\net6.0\staticwebassets.build.json
+E:\google calendar1\google calendar1\obj\Debug\net6.0\staticwebassets.development.json
+E:\google calendar1\google calendar1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\google calendar1\google calendar1\obj\Debug\net6.0\scopedcss\bundle\google calendar1.styles.css
+E:\google calendar1\google calendar1\obj\Debug\net6.0\scopedcss\projectbundle\google calendar1.bundle.scp.css
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.dll
+E:\google calendar1\google calendar1\obj\Debug\net6.0\refint\google calendar1.dll
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.pdb
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.genruntimeconfig.cache
+E:\google calendar1\google calendar1\obj\Debug\net6.0\ref\google calendar1.dll
+E:\google calendar1\google calendar1\bin\Debug\net6.0\Cre\cre.json
+E:\google calendar1\google calendar1\bin\Debug\net6.0\Google.Apis.dll
+E:\google calendar1\google calendar1\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+E:\google calendar1\google calendar1\bin\Debug\net6.0\Google.Apis.Auth.dll
+E:\google calendar1\google calendar1\bin\Debug\net6.0\Google.Apis.Calendar.v3.dll
+E:\google calendar1\google calendar1\bin\Debug\net6.0\Google.Apis.Core.dll
+E:\google calendar1\google calendar1\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\google calendar1\google calendar1\obj\Debug\net6.0\google calendar1.csproj.CopyComplete
